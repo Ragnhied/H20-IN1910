@@ -16,7 +16,7 @@ def test_add_floatpointnumbers_exercise_2():
     assert result, "The test failed"
 
 def test_add_string_exercise_3():
-    assert add("Hello ", "World") == "Hello World"
+    assert add("Hello ", " World") == "Hello World"
 
 #Her kommer fem testfunksjoner med utgangspunkt i metoden "Test driven development", exercise 4:
 
